@@ -1,0 +1,18 @@
+{
+  "name": "transacciones",
+  "version": "1.0.0",
+  "description": "Asignacion de la materia de temas emergentes de app wev",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Transacciones"
+  },
+  "keywords": [
+    "1234"
+  ],
+  "author": "Ariana Espinoza",
+  "license": "ISC"
+}
